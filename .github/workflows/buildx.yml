@@ -10,8 +10,8 @@ on:
   pull_request:
 
 env:
-  DOCKERHUB_USER: wiserain
-  IMAGE_NAME: wiserain/rclone
+  DOCKERHUB_USER: std2main
+  IMAGE_NAME: std2main/media-rclone
 
 jobs:
   buildx:
